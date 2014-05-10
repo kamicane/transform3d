@@ -11,8 +11,9 @@ Implements the [Interpolation of Transforms](http://www.w3.org/TR/css-transforms
 ## Usage
 
 ```js
-// First transform
+var Transform3d = require('transform3d');
 
+// First transform
 var transform1 = new Transform3d;
 transform1.rotate(45).scale(2);
 
