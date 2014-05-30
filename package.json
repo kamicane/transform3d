@@ -1,6 +1,6 @@
 {
   "name": "transform3d",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "3d transform operations and interpolation for matrix3d",
   "main": "./index.js",
   "repository": {
